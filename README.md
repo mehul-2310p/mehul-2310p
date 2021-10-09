@@ -1,7 +1,24 @@
-### Hi there 👋
+                                                                       ### Hi there this is Mehul 👋😄
+                                                                       
+                                                                       
+                                                                       
+  I  am a  3rd Year undergraduate student. I aspire to be a valuable resource in society, I love to develop new software and bring my ideas to life . I come up with creative solutions for complex problems. I believe in constant learning and exploring new things, wish to travel around the globe and write a book about it. 
+  
+
+        🌱 I’m currently improving my problem solving skills.
+👯 I’m looking to collaborate on Web Development.
+💬 Ask me about Java, Cpp, C, javascript, React, Python, UI/UX, and DSA.
+⚡ Fun fact: Is it weird that even now I want to live inside a candy house in the continent made up of chocolates.                                                            
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
 
 <!--
-**mehul-2310p/mehul-2310p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
