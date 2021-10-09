@@ -10,8 +10,11 @@
   
 
 <p>🌱 I’m currently improving my problem solving skills.
+   
 👯 I’m looking to collaborate as SDE.
+   
 💬 Ask me about Java, Cpp,  SQL and DSA.
+   
 ⚡ Fun fact: Is it weird that even now I want to live inside a candy house in the continent made up of chocolates.   
    
 📫 How to reach me:  +91-9926566247 </p>                                                        
