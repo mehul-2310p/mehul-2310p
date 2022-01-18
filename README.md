@@ -11,13 +11,16 @@
 
 <p>🌱 I’m currently improving my problem solving skills.
    
-👯 I’m looking to collaborate as SDE.
+👯 I’m looking to collaborate as problem solver .
    
-💬 Ask me about Java, Cpp,  SQL and DSA.
+💬 Ask me about Java,  DBMS , Operating System .
    
 ⚡ Fun fact: Is it weird that even now I want to live inside a candy house in the continent made up of chocolates.   
    
-📫 How to reach me:  +91-9926566247 </p>                                                        
+📫 How to reach me:  +91-9926566247 </p>  
+  
+Thanks for reading  ! 
+have fun !! 
                                                                        
                                                                        
                                                                        
